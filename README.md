@@ -1,2 +1,2 @@
 # Angular
-pfracticando con angular
+practicando con angular
